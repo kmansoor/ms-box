@@ -11,6 +11,8 @@
     <modules>
         <module>config-server</module>
         <module>config-client</module>
+        <module>eurekaserver</module>
+        <module>adder-service</module>
     </modules>
 
 </project>
